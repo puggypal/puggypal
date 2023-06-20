@@ -3,6 +3,8 @@
 - - 🌱 I like to be tuned into what developers are doing to more effectively manage workloads 
 - 💞️ I’m currently available immediately
 - 📫 My mobile is 773-454-8705 
+- My email is lisamkchristensen@gmail.com
+- 
 
 <!---
 puggypal/puggypal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
